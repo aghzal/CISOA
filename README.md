@@ -137,10 +137,11 @@ Check out the online documentation on https://intuitem.gitbook.io/ciso-assistant
 43. Agile Security Framework (ASF) - baseline - by intuitem 🤗
 44. EU AI Act 🇪🇺🤖
 45. FBI CJIS 🇺🇸👮
-46. Operational Technology Cybersecurity Controls (OTCC) 🇸🇦
+46. Operational Technology Cybersecurity Controls (OTCC) 
 47. Secure Controls Framework (SCF) 🇺🇸🌐
 48. NCSC Cyber Assessment Framework (CAF) 🇬🇧
 49. California Consumer Privacy Act (CCPA) 🇺🇸☀️ 
+50. RODO (Polish Version of GDPR)
 
 ### Community contributions
 
